@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/tortoise/aiosqlite/commit/ed1861fe6f8baebcd83dd90653fa486f1e0cf44d",
       "git:hexsha": "ed1861fe6f8baebcd83dd90653fa486f1e0cf44d",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T02:35:18.058284+00:00"
     },
     {
       "@id": "https://repolex.ai/r/tortoise/aiosqlite/commit/fb4bccb11bd4c0245b94d9270145e9807f9d72aa",
