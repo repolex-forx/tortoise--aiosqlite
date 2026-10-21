@@ -1,0 +1,11 @@
+{
+  "org": "tortoise",
+  "repo": "aiosqlite",
+  "versions": [
+    {
+      "commit": "ed1861fe6f8baebcd83dd90653fa486f1e0cf44d",
+      "tag": "",
+      "parsed_at": "2026-10-21T02:35:18.058769+00:00"
+    }
+  ]
+}
